@@ -19,7 +19,7 @@ REPORT PDF:
 https://drive.google.com/file/d/1myTBnYAKEtj_xx8oOO3hFY9vam9T_PH6/view?usp=sharing
 
 DEMO VIDEO:
-(Paste your demo video link here)
+https://drive.google.com/file/d/1o4Qh0s9EKVcRWXcYNf4ZOpdW-cAIY9Il/view?usp=sharing
 
 FEATURES IMPLEMENTED:
 - Hybrid Recommendation (Content + Collaborative)
