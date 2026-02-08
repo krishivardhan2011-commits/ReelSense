@@ -1,0 +1,35 @@
+=================================
+ReelSense Movie Recommender
+Hackathon Submission
+=================================
+
+TEAM NAME:
+Code Blooded
+
+PROJECT:
+ReelSense — Explainable Movie Recommender with Diversity Optimization
+
+LIVE WEBSITE:
+https://reelsense-gkgy2jnurznn5axyye2fhl.streamlit.app/
+
+MODEL FILE:
+https://drive.google.com/file/d/1AzTFs-KMnUZiPELnCvZ0yaCaUI35WDwk/view?usp=sharing
+
+REPORT PDF:
+https://drive.google.com/file/d/1myTBnYAKEtj_xx8oOO3hFY9vam9T_PH6/view?usp=sharing
+
+DEMO VIDEO:
+(Paste your demo video link here)
+
+FEATURES IMPLEMENTED:
+- Hybrid Recommendation (Content + Collaborative)
+- Explainable Recommendations
+- Diversity Optimization
+- Precision@K, Recall@K, NDCG Metrics
+- Catalog Coverage & Diversity Score
+
+DATASET:
+MovieLens Latest Small Dataset
+
+NOTES:
+Project implemented as per problem statement requirements.
